@@ -1,0 +1,33 @@
+html {
+    margin: 0;
+  }
+ span{
+    display: block;
+ }
+ .button{
+    border: 1px solid black;
+    width: 100px;  
+    height: 100px;
+    margin: 1px;
+    display: inline-block;
+}
+.clickers{
+    margin: auto 100px;
+    width: 80%;
+    text-align: center;   
+}
+
+
+ #white{
+    background-color: #fff;
+ }
+ #black{
+    background-color: black;
+ }
+ #pink{
+    background-color: pink;
+ }
+ #grey{
+    background-color: grey;
+ }
+   
